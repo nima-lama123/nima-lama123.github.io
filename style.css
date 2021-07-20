@@ -50,8 +50,9 @@ div{
 
 	left:33vw;
 
-	bottom: 10vw;
+	bottom: 13vh;
 
+	z-index: 199;
    
 
 }
